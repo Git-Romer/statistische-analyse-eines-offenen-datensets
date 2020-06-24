@@ -15,7 +15,7 @@ Die Einreichung erfolgt im GitHub Classroom. Einladungslink dazu:
 [https://classroom.github.com/a/Uo84JxVO](https://classroom.github.com/a/Uo84JxVO)
 Einreichungsfrist: 5. Juli, 2020, 23:59. Der Inhalte des letzten Git-Commit vor der Frist wird für die Bewertung in Betracht gezogen.
 
-[^1] Eine Liste von potentiellen Quellen [https://github.com/awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets); Es können aber auch andere Datenquellen genutzt werden.
+[^1]: Eine Liste von potentiellen Quellen [https://github.com/awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets); Es können aber auch andere Datenquellen genutzt werden.
 
 ## Erklärung des Vorgehens und der Dateien
 
