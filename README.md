@@ -19,6 +19,7 @@ Einreichungsfrist: 5. Juli, 2020, 23:59. Der Inhalte des letzten Git-Commit vor 
 
 ## Erklärung des Vorgehens und der Dateien
 
-Zum lösen und dokumentieren dieser Übung verwende ich den vorgeschlagenen [Jupyter Notebook](./jn_gromer_uebung_loesung.ipynb). Jeder Schritt wird dort dokumentiert sein.  
+Zum lösen und dokumentieren dieser Übung, verwende ich den vorgeschlagenen [Jupyter Notebook](./jn_gromer_uebung_loesung.ipynb). Jeder Schritt wird dort dokumentiert sein.  
 Den [Datensatz](./avocado.csv) sowie die Idee/Fragestellung entnehme ich aus [Kaggle](https://www.kaggle.com/neuromusic/avocado-prices).  
-Um einen besseren Überblick verschaffen zu können werde ich in meinem Notebook die Analyse mit einem Inhaltsverzeichnis versehen. Somit wird es möglich sein über anchor links zu den Stellen zu springen.  
+Um einen besseren Überblick verschaffen zu können, werde ich in meinem Notebook die Analyse mit einem Inhaltsverzeichnis versehen. Somit wird es möglich sein, über anchor links zu den Stellen zu springen.  
+Zudem ist es für die Funktionalität der anchor links im Inhaltsverzeihnis nötig, das Notebook in der entsprechenden Jupyter Notebook umgebung zu öffnen, statt es direkt in Github zu betrachten.
